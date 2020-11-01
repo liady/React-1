@@ -73,7 +73,7 @@ And Eggheads [video tutorials here](https://egghead.io/lessons/react-react-funda
 [For those who like a video](https://egghead.io/lessons/react-react-fundamentals-development-environment-setup)  
 [NPM cheat sheet](study/npm_cheat_sheet.md) 
 [About React](https://facebook.github.io/react/)
-[create-react-ap tutorial](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc)  
+[create-react-app tutorial](https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc)  
 [About Webpack for React](http://www.pro-react.com/materials/appendixA/)
 
 #### Extra exercises
